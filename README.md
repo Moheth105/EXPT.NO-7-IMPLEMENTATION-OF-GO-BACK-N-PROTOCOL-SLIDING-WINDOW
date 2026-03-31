@@ -1,4 +1,4 @@
-# EXPT.NO-8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SLIDING-WINDOW
+# EXPT.NO-7-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SLIDING-WINDOW
 # AIM
 To write and execute a program for Go-Back-N protocol.
 # EQUIPMENTS REQUIRED
@@ -42,10 +42,9 @@ printf("\n All frames sent successfully.\n");
 }
 
 # OUTPUT
-
- 
-
+<img width="1599" height="972" alt="image" src="https://github.com/user-attachments/assets/eda6dafb-232c-4d82-85b2-7b9b4f8c1cce" />
 
 
 
-# RESULT: Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
+# RESULT: 
+Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
